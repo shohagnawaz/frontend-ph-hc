@@ -4,4 +4,4 @@ const AppointmentsManagementPage = () => {
   )
 }
 
-export default AppointmentsManagementPage
+export default AppointmentsManagementPage;
